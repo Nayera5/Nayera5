@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayera5" alt="nayera5" /></a> </p>
 
-- 🌱 I’m currently learning **Backed development**
+- 🌱 I’m currently trying to develope myself more and get into trainings for more education and network.
 
 - 📫 How to reach me **nayera.sherif.elaraby@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pkwKwCNrb_50coF-LKJfYNwftt1oZZqu/view?usp=drivesdk](https://drive.google.com/file/d/1pkwKwCNrb_50coF-LKJfYNwftt1oZZqu/view?usp=drivesdk)
+- 📄 Know about me more:  [CV](https://drive.google.com/file/d/1uFEHMa-L6R425mXnCWSssjMy9a_YtZlN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
