@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nayera.sherif.elaraby@gmail.com**
 
-- 📄 Know about me more:  [CV](https://drive.google.com/file/d/1uFEHMa-L6R425mXnCWSssjMy9a_YtZlN/view?usp=drive_link)
+- 📄 Know about me more:  [CV](https://drive.google.com/drive/folders/1RGGhKQhhJkYOo28Ij-VKjwr94ILI4kQt?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
