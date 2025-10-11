@@ -22,8 +22,8 @@
 <!-- <div align = "center" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayera5&show_icons=true&locale=en&layout=compact" alt="nayera5" />
 </div> -->
-<!-- <div align = "center" >
+ <div align = "center" >
   <img src = "https://github-readme-stats.vercel.app/api?username=nayera5&show_icons=true&theme=date_night" height = "160" alt="Nayera's GitHub stats">
-</div> -->
+</div> 
 
 
