@@ -24,4 +24,4 @@
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](your_link_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)]([your_link_here](https://www.linkedin.com/in/nayera-sherif-440547282/%20))
