@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=ff69b4&center=true&vCenter=true&width=800&height=80&lines=Hey+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!" />
 </p>
-<h3 align="center">Biomedical Engineering Student | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Biomedical Engineering Student </h3>
 
 <p align="center">
 ✨ Turning biomedical ideas into intelligent systems.
