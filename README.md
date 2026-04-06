@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=45&color=ff69b4&center=true&vCenter=true&width=800&height=80&lines=Hi+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=45&color=D4537E&center=true&vCenter=true&width=800&height=80&lines=Hi+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!+" />
 </p>
 
 <h3 align="center">Biomedical Engineering Student @ CU</h3>
@@ -11,19 +11,14 @@
 ---
 
 ### 🌷 About Me
-- 🌱 Currently learning **Backend Development** with JavaScript and **ML basics** 
-- 🧠 Interested in **AI** & **Biomedical Applications** - Passionate about building meaningful tech  
-- 📫 Reach me at: **nayera.sherif.elaraby@gmail.com** 
+- 🌱 Currently learning Backend Development with JavaScript and ML basics
+- 🧠 Interested in AI & Biomedical Applications - Passionate about building meaningful tech  
+### 🌐 Connect with Me
 
-### 🌐 Connect & Resume
-<p align="left">
-  <a href="https://www.linkedin.com/in/nayera-sherif-440547282">
-    <img src="https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1RGGhKQhhJkYOo28Ij-VKjwr94ILI4kQt?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_CV-Resume-ff69b4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayera-sherif-440547282)
+[![CV](https://img.shields.io/badge/My%20CV-View%20Here-D4537E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1RGGhKQhhJkYOo28Ij-VKjwr94ILI4kQt?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-nayera.sherif-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayera.sherif.elaraby@gmail.com)
+
 
 ---
 
@@ -47,7 +42,7 @@
 **Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,blender" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,blender" alt="Tools" />
   </a>
 </p>
 
