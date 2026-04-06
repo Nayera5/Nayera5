@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=45&color=ff69b4&center=true&vCenter=true&width=800&height=80&lines=Hi+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!+" />
 </p>
 
-<h3 align="center">Biomedical Engineering Student</h3>
+<h3 align="center">Biomedical Engineering Student @ CU</h3>
 <p align="center">
 <i>Turning biomedical ideas into intelligent systems.</i>
 </p>
