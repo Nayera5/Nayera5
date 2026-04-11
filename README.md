@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=45&color=D4537E&center=true&vCenter=true&width=800&height=80&lines=Hi+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&color=D4537E&center=true&vCenter=true&width=800&height=80&lines=Hi+👩🏻‍💻+I'm+Nayera+Sherif;Welcome+to+my+profile!+" />
 </p>
 
 <h3 align="center">Biomedical Engineering Student @ CU</h3>
@@ -52,9 +52,9 @@
 ###  My GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayera5&theme=dracula" alt="Nayera's Top Languages" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayera5&theme=dracula" alt="Nayera's Top Languages" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayera5&theme=dracula&hide_border=true&bg_color=ffe4f0" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayera5&theme=dracula" alt="Nayera's GitHub Stats" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayera5&theme=dracula" alt="Nayera's GitHub Stats" /> -->
 </div>
 
 
