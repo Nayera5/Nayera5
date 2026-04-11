@@ -50,10 +50,10 @@
 ---
 
 ###  My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayera5&show_icons=true&bg_color=ffe4e1&title_color=ff69b4&icon_color=ff69b4&text_color=d14081&hide_border=true" alt="Nayera's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayera5&layout=compact&bg_color=ffe4e1&title_color=ff69b4&text_color=d14081&hide_border=true" alt="Nayera's Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayera5&theme=dracula&hide_border=true&bg_color=ffe4f0" alt="Streak" height="180" />
+</div>
+
 
 ---
 
