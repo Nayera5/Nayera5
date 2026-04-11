@@ -12,7 +12,8 @@
 
 ### 🌷 About Me
 - 🌱 Currently learning Backend Development with JavaScript and ML basics
-- 🧠 Interested in AI & Biomedical Applications - Passionate about building meaningful tech  
+- 🧠 Interested in AI & Biomedical Applications
+- Passionate about building meaningful tech  
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayera-sherif-440547282)
