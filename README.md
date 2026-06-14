@@ -17,7 +17,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayera%20Sherif-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayera-sherif-440547282)
-[![CV](https://img.shields.io/badge/My%20CV-View%20Here-D4537E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Qfz_yHX798cHtHDa-KyRTyhHOffD61zj/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/My%20CV-View%20Here-D4537E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LCug_xJTWbqlKYBNSAHFW0KbVW8m0K8R/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-nayera.sherif-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayera.sherif.elaraby@gmail.com)
 
 
